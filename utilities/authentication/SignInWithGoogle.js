@@ -3,7 +3,7 @@ import { auth } from "../../firebaseConfig.js";
 
 // Function handles the users signin with their google account 
 export async function signInUserWithGoogle () {
-
+// hellos
     /* STEP 2: Create a new instance of the Firebase Google Authenticator Proivider
     We are going to look at the following documentation to figure out how we might do 
     this: https://firebase.google.com/docs/auth/web/google-signin */
